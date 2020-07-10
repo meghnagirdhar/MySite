@@ -1,0 +1,88 @@
+/*********************TAG SELECTORS***************/
+
+a {
+  color: #11999E;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+p {
+  font-family: 'PT Serif', serif;
+}
+
+
+/************* CLASS SELECTORS ************/
+
+.bottom-container {
+}
+
+.middle-container {
+}
+
+.top-container {
+  background-color: #e4f2f0;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 50px;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.java-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.python-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.web-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.profile-img {
+  width: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
